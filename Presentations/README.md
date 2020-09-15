@@ -1,1 +1,3 @@
-
+- Kick-Off Presentation
+- Midterm Presentation
+- Final Presentation
